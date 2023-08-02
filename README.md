@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 
-- :balloon: I’m currently working on CI/CD.
+- :balloon: I’m currently working as a web developer.
 - 🌱 I’m currently learning algorithms with Leet Code. 
-- :notebook_with_decorative_cover: I'm currently reading "System Design Interview".
-- :musical_score: I recently finished reading "The Art of Readable Code".
+- :notebook_with_decorative_cover: I'm currently reading "High Performance Browser Networking".
